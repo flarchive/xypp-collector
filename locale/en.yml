@@ -1,0 +1,47 @@
+xypp-collector:
+  forum:
+    reward_not_found: Reward {reward} not found
+    condition_not_found: Condition {condition} not found
+    condition:
+      condition: "Condition"
+      format: "<b>{name}:{calculate}</b> {operator}{value} {span} "
+      and: " and "
+      span: "In {span} days"
+    reward:
+      reward: "Reward"
+      format: "<b>{name}</b>:{value}"
+      and: " and "
+  admin:
+    settings: "Settings"
+    allow_update: "Allow user update manually"
+    max_keep: "Max Record Days"
+    emit_control:
+      title: "Update Emitter and Recalculate"
+      event: "Event"
+      update: "Update Command"
+      manual: "Manual"
+      name: "Name"
+    list:
+      condition: "Condition"
+      reward: "Reward"
+      condition-name: "Condition Name"
+      condition-operator: "Operator"
+      condition-value: "Value"
+      condition-span: "Time Span"
+      condition-calculate: "Calculate"
+      condition-alter_name: "Display Name"
+      reward-name: "Reward Name"
+      reward-value: "Value"
+      reward-get_value: "Get Value"
+      reward-alter_name: "Display Name"
+      new_item: "New Item"
+    permissions:
+      view-condition: "View Condition Value"
+  api:
+    condition_not_allow_frontend: "Condition cannot be trigger in frontend"
+    no_manual_update: "No manual update needed"
+  lib:
+    calculate:
+      sum: "Sum"
+      max: "Max"
+      days: "Count Days"
