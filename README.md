@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of xypp/collector.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/collector) or the [upstream repository](https://github.com/zxy19/flarum-collector).
 
-**0** versions archived · Latest: [`v0.3.29`](https://github.com/flarchive/xypp-collector/tree/archive/v0.3.29) · License: `MIT` · Flarum: `^1.2.0`
+**40** versions archived · Latest: [`v0.3.29`](https://github.com/flarchive/xypp-collector/tree/archive/v0.3.29) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2024-09-11 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-collector/tree/archive/v0.1.0) |
+| `v0.1.1` | 2024-09-11 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-collector/tree/archive/v0.1.1) |
+| `v0.1.2` | 2024-09-11 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-collector/tree/archive/v0.1.2) |
+| `v0.1.3` | 2024-09-13 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-collector/tree/archive/v0.1.3) |
+| `v0.1.4` | 2024-09-13 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-collector/tree/archive/v0.1.4) |
+| `v0.1.5` | 2024-09-13 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-collector/tree/archive/v0.1.5) |
+| `v0.1.6` | 2024-09-13 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-collector/tree/archive/v0.1.6) |
+| `v0.1.7` | 2024-09-13 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-collector/tree/archive/v0.1.7) |
+| `v0.1.8` | 2024-09-14 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-collector/tree/archive/v0.1.8) |
+| `v0.2.0` | 2024-09-15 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-collector/tree/archive/v0.2.0) |
+
+[View all 40 versions](https://github.com/flarchive/xypp-collector/tags)
 
 Catalog entry: [packages/xypp-collector.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-collector.json)
 
